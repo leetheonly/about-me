@@ -3,7 +3,7 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     font-size: x-large;
-    font-weight: 600;
+    font-weight: 650;
 
    
 }
@@ -21,10 +21,10 @@ ul{
 }
     #Lawrence{
         text-align: center;
-        padding: 1px;
+        padding: 2px;
     }
     #projects{
-        width: 80%;
+        width: 75%;
     }
    nav {align-self:right;
 
@@ -33,5 +33,5 @@ ul{
        border-style: groove;
        align-content: center;
        border-style: solid;
-       color: yellow;
+       color:darkgrey;
    }
