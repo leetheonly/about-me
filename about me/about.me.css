@@ -1,0 +1,10 @@
+body{
+    background-image: url(/aboutme/img/pawel-czerwinski-OOFSqPWjCt0-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+#about{
+background-color: darkblue;
+margin: 5px;
+}
