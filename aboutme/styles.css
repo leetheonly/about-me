@@ -1,7 +1,9 @@
 body{
-    background-image: url(/aboutme/img/scott-rodgerson-z0MDyylvY1k-unsplash.jpg);
+    background-image: url(/aboutme/img/pawel-czerwinski-6lQDFGOB1iw-unsplash.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    font-size: x-large;
+    color: white;
     
 }
 #about{
