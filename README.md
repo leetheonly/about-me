@@ -1,5 +1,5 @@
-portfolio
-This is a project website about my self and a portfolio. current version 2020
+# portfolio
+#This is a project website about my self and a portfolio. current version 2020
 By Lawrence ireri
 Description
 This a webpage project porfolio about myself, my projects in moringa school and all I have learnt.The project uses HTML and css languages.
